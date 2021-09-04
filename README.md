@@ -1,0 +1,8 @@
+- 👋 Hi, I’m prasam jain.
+- ✨ I’m pursuing my B.Tech in CSE brach from JUET GUNA MP.
+- 📫 I’m currently in 2nd year.
+- 👀 I’m interested in web development and software making.
+- 🌱 I’m currently learning Data Structure,pyhton and DBMS.
+- 💞️ I’m looking to collaborate on simple projects.
+- 📫 I’m also studying specialization cource in AI.
+- LANGUAGE - c/c++.
