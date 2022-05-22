@@ -1,23 +1,33 @@
 <h1 align="center">Hy 👋, I'm PROFESSOR PRASAM</h1>
 
 <h3 align="center">I'm a programmer | Developer | Sketcher </h3>
-<!-- <p align="left"> <a href="https://twitter.com/rahulbairagi77" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbairagi77?logo=twitter&style=for-the-badge" alt="rahulbairagi77" /></a> </p> -->
 
 
+<h3> 💻 About Me </h3>
 
 - 🌱 **web developer**
 - ✨ **Python Developer**
-- 📫 **Cloud Computing (GCP)**
-- 🌱 **OS - learning LINUX**
-- **DataBase - MySQL**
-- **3 Star @ CodeChef**
-- 💞️ **I’m looking to collaborate on simple projects**
+- 💻 **3 Star @ CodeChef**
+- **I’m looking to collaborate on simple projects**
+- **Exploring new technologies and developing software solutions and quick hacks**
+- **Watching Sci-Fi movies and Web-Shows**
 
-- 📫 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C/C++ 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter
+- 📊 &nbsp; DataBase : MySQL
+- 🔧 &nbsp; Visual Studio code | Git
+- 🎨 &nbsp; PhotoShop  | Canva
+- 💿 **OS - learning LINUX - KALI**
+- 📫 **Cloud Computing (GCP)**
+
+- 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
   <br>
   <br>
 <!-- ![ThumbsUpEngineerGamingGIF](https://user-images.githubusercontent.com/104666904/167990372-210ac355-75ab-48ac-a2c7-863bed8ab0b0.gif) -->
 <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +47,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulcode751&show_icons=true&locale=en" alt="rahulcode751" /></p> -->
 
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulcode751&" alt="rahulcode751" /></p> -->
-  <p> THANK YOU FOR VISITING MY GITHUB PROFILE </p>   
+<br>  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pj1807&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/pj1807/github-readme-stats)  
                                                                                                                     
 [![PRASAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=pj1807&theme=midnight-purple&show_icons=true)](https://github.com/pj1807/github-readme-stats)
 <br>
@@ -46,4 +58,4 @@
                                                                                                               
 
 <br>
-                                                             
+<p align="center "> **THANK YOU FOR VISITING MY GITHUB PROFILE** </p>                                                              
