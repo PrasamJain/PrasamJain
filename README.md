@@ -11,7 +11,7 @@
 - **I’m looking to collaborate on simple projects**
 - **Exploring new technologies and developing software solutions and quick hacks**
 - **Watching Sci-Fi movies and Web-Shows**
-
+date 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ 
@@ -31,6 +31,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://twitter.com/prasam1807" target="blank"><img align="center" alt="rahulbairagi77"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+ height="30" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/prasam-jain-59a45a191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasam jain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prasam.jain.716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prasam Jain" height="30" width="40" /></a>
