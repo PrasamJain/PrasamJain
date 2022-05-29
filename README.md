@@ -1,6 +1,9 @@
 <h1 align="center">Hy 👋, I'm PROFESSOR PRASAM</h1>
 
-<h3 align="center">I'm a programmer | Developer | Sketcher </h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20programmer%20Developer%20And%20Sketcher.;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>  
 
 <h3> 💻 About Me </h3>
