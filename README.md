@@ -58,7 +58,8 @@ date
 <br>
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pj1807&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-                                                                                                              
+         
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=pj1807&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <p align="center "> **THANK YOU FOR VISITING MY GITHUB PROFILE** </p>                                                              
