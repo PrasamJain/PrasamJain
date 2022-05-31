@@ -35,9 +35,7 @@ date
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/prasam1807" target="blank"><img align="center" alt="rahulbairagi77"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
- height="30" width="40" /></a>
-
+<a href="https://twitter.com/prasam1807" target="blank"><img align="center" alt="prasam1807"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/prasam-jain-59a45a191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasam jain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prasam.jain.716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prasam Jain" height="30" width="40" /></a>
 <a href="https://instagram.com/prasam18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasam18" height="30" width="40" /></a>
@@ -46,7 +44,15 @@ date
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  
+ <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C/C++" width="40" height="40"/>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+ <a href="https://www.kali.org/" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux-Kali" width="40" height="40"/>
+  
+ </p>
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulcode751&show_icons=true&locale=en&layout=compact" alt="rahulcode751" /></p> -->
 <!--
