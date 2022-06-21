@@ -22,7 +22,7 @@ date
 - 📊 &nbsp; DataBase : MySQL
 - 🔧 &nbsp; Visual Studio code | Git
 - 🎨 &nbsp; PhotoShop  | Canva
-- 💿 **OS - learning LINUX - KALI**
+- 💿 **OS - Debian LINUX - KALI**
 - 📫 **Cloud Computing (GCP)**
 
 - 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
