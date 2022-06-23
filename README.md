@@ -35,7 +35,7 @@ date
 <h3 align="left">Where To Find me</h3>
 <p align="left">
 
-  <a href="mailto::prasamjain294@gmail.com" target="blank"><img align="center" alt="Gmail"  src="https://img.icons8.com/color/000000/gmail-new.png" height="40" width="40" /></a> 
+  <a href="mailto:prasamjain294@gmail.com" target="blank"><img align="center" alt="Gmail"  src="https://img.icons8.com/color/000000/gmail-new.png" height="40" width="40" /></a> 
   <a href="https://twitter.com/prasam1807" target="blank"><img align="center" alt="prasam1807"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/prasam-jain-59a45a191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasam jain" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prasam.jain.716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prasam Jain" height="30" width="40" /></a>
