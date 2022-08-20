@@ -19,6 +19,7 @@ date
 
 - 💻 &nbsp; Python | C/C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter
+- ✨ &nbsp; ML : (NumPy | Panda)
 - 📊 &nbsp; DataBase : MySQL
 - 🔧 &nbsp; Visual Studio code | Git
 - 🎨 &nbsp; PhotoShop  | Canva
