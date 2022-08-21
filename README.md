@@ -14,7 +14,6 @@
 - **I’m looking to collaborate on simple projects**
 - **Exploring new technologies and developing software solutions and quick hacks**
 - **Watching Sci-Fi movies and Web-Shows**
-date 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ 
