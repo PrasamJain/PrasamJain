@@ -16,12 +16,12 @@
 - **Watching Sci-Fi movies and Web-Shows**
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tkinter
-- ✨ &nbsp; ML : (NumPy | Panda)
-- 📊 &nbsp; DataBase : MySQL
-- 🔧 &nbsp; Visual Studio code | Git
-- 🎨 &nbsp; PhotoShop  | Canva
+- 💻 &nbsp; Language : C/C++ | Python (basic)
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript
+- 🔧 &nbsp; Framework : React Js
+- ✨ &nbsp; ML : NumPy | Pandas
+- 📊 &nbsp; DataBase : MySQL | MongoDB(Atlas)
+- 🔧 &nbsp; Tools : Vs code | Git | Canva 
 - 📫 **Cloud Computing (GCP)**
 
 <br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
