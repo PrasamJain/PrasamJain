@@ -22,7 +22,7 @@
 - ✨ &nbsp; ML : NumPy | Pandas
 - 📊 &nbsp; DataBase : MySQL | MongoDB(Atlas)
 - 🔧 &nbsp; Tools : Vs code | Git | Canva 
-- 📫 ** Cloud Computing (GCP)**
+- 📫  **Cloud Computing (GCP)**
 
 <br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
 <br><br> ![](https://komarev.com/ghpvc/?username=pj1807&label=PROFILE+VIEWS&color=blue&style=circle)
