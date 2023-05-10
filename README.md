@@ -25,7 +25,7 @@
 - 📫  **Cloud Computing (GCP)**
 
 <br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
-<br><br> ![](https://komarev.com/ghpvc/?username=pj1807&label=PROFILE+VIEWS&color=blue&style=circle)
+<br><br> ![](https://komarev.com/ghpvc/?username=prasamjain&label=PROFILE+VIEWS&color=blue&style=circle)
   <br>
   <br>
 <!-- ![ThumbsUpEngineerGamingGIF](https://user-images.githubusercontent.com/104666904/167990372-210ac355-75ab-48ac-a2c7-863bed8ab0b0.gif) -->
@@ -95,14 +95,14 @@
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pj1807&" alt="rahulcode751" /></p> -->
 <br>  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pj1807&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/pj1807/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasamjain&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/prasamjain/github-readme-stats)  
                                                                                                                     
-[![PRASAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=pj1807&theme=midnight-purple&show_icons=true)](https://github.com/pj1807/github-readme-stats)
+[![PRASAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasamjain&theme=midnight-purple&show_icons=true)](https://github.com/prasamjain/github-readme-stats)
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pj1807&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasamjain&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
          
-[![PRASAM's github activity graph](https://activity-graph.herokuapp.com/graph?username=pj1807&theme=gotham)](https://github.com/pj1807/github-readme-activity-graph)
+[![PRASAM's github activity graph](https://activity-graph.herokuapp.com/graph?username=prasamjain&theme=gotham)](https://github.com/prasamjain/github-readme-activity-graph)
 
 <br>
 <p align="center "> **THANK YOU FOR VISITING MY GITHUB PROFILE** </p>                                                              
