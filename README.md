@@ -1,7 +1,7 @@
 <h1 align="center">Hy 👋, I'm PROFESSOR PRASAM</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20And%20DevOps%20Engineer;AWS%20Certified;I’IaC%20Transformation%20through%20Agentic%20AI&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20And%20DevOps%20Engineer;AWS%20Certified;IaC%20Transformation%20through%20Agentic%20AI&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>  
@@ -101,10 +101,10 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasamjain&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/prasamjain/github-readme-stats)  
                                                                                                                     
-[![PRASAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasamjain&theme=midnight-purple&show_icons=true)](https://github.com/prasamjain/github-readme-stats)
+<!-- [![PRASAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasamjain&theme=midnight-purple&show_icons=true)](https://github.com/prasamjain/github-readme-stats)
+<br> 
 <br>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasamjain&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prasamjain&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  -->
         
 <br>
-<p align="center "> **THANK YOU FOR VISITING MY GITHUB PROFILE** </p>                                                              
+<p align="center "> ** THANK YOU FOR VISITING MY GITHUB PROFILE ** </p>                                                              
