@@ -1,7 +1,7 @@
 <h1 align="center">Hy 👋, I'm PROFESSOR PRASAM</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20And%20DevOps Engineer%20AWS%20Certified.;Always%20learning%20new%20things;I’m%20looking%20to%20collaborate%20on%20simple%20projects&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud%20And%20DevOpsEngineer;AWS%20Certified;I’m%20looking%20to%20collaborate%20on%20simple%20projects&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>  
