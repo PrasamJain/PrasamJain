@@ -8,21 +8,18 @@
 
 <h3> 💻 About Me </h3>
 
-- 🌱 **Full Stack developer**
-- ✨ **Python Developer**
-- 💻 **Leetcode Rating 1656 (TOP - 15.91%)**
+- 🌱 **Cloud & DevOps Engineer**
+- ✨ **IaC Automation Expert**
+- 💻 **AWS Certified**
 - **Exploring new technologies and developing software solutions and quick hacks**
-- **Watching Sci-Fi movies and Web-Shows**
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Language : C/C++ | Python (basic)
-- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript
-- 🌐 &nbsp; Backend : Node Js | Express Js | API
-- 🔧 &nbsp; Framework : React Js
-- ✨ &nbsp; ML : NumPy | Pandas
-- 📊 &nbsp; DataBase : MySQL | MongoDB(Atlas)
+- 💻 &nbsp; Cloud : AWS | AZURE | GCP
+- 🌐 &nbsp; Infrastructure as Code (IaC) : Terraform | Ansible | AWS CloudFormation
+- 🌐 &nbsp; Backend : Node Js | Express Js | API Gateway
+- 🔧 &nbsp; Framework : Agentic AI | React Js
+- 📊 &nbsp; DataBase : RDS | MySQL
 - 🔧 &nbsp; Tools : Vs code | Git | Canva 
-- 📫  **Cloud Computing (GCP)**
 
 <br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
 <br><br> ![](https://komarev.com/ghpvc/?username=prasamjain&label=PROFILE+VIEWS&color=blue&style=circle)
