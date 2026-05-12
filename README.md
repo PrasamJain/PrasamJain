@@ -16,12 +16,11 @@
 
 - 💻 &nbsp; Cloud : AWS | AZURE | GCP
 - 🌐 &nbsp; Infrastructure as Code (IaC) : Terraform | Ansible | AWS CloudFormation
-- 🌐 &nbsp; Backend : Node Js | Express Js | API Gateway
+- 🌐 &nbsp; Backend : Node Js | Express Js | API
 - 🔧 &nbsp; Framework : Agentic AI | React Js
 - 📊 &nbsp; DataBase : RDS | MySQL
-- 🔧 &nbsp; Tools : Vs code | Git | Canva 
 
-<br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com, prasamjain0@gmail.com**
+<br><br> 💌 How to reach me : Email --> **prasamjain294@gmail.com**
 <br><br> ![](https://komarev.com/ghpvc/?username=prasamjain&label=PROFILE+VIEWS&color=blue&style=circle)
   <br>
   <br>
